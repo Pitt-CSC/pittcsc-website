@@ -1,0 +1,10 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/Argo-AI-logo.png": "static/Argo-AI-logo-1f89685ea9f9f47bebbdd7d9c3e112fc.png",
+  "static/PNC_logo.png": "static/PNC_logo-01c6daed53708112adf1547b225cd4e2.png",
+  "static/Pitt_CSC_Fall_Report_2020-1.png": "static/Pitt_CSC_Fall_Report_2020-1-d10a8f6b5b84493506e66b04b2333fdd.png",
+  "static/Pitt_CSC_Fall_Report_2020.pdf": "static/Pitt_CSC_Fall_Report_2020-bbf030b8c8f8b873106a62e466a8e3e6.pdf",
+  "static/horizontal-logo.svg": "static/horizontal-logo.c3ecf856.svg",
+  "static/norfolk_southern_logo.png": "static/norfolk_southern_logo-75be617cc73a7c988733c02f64531d7a.png"
+}
